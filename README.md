@@ -59,3 +59,39 @@ For the user management system and the database, we used Google Firebase.
 ## Project Status
 
 This is more of a concept of the app, altough fully functional. The proper development of it stopped after the hackathon, but we are looking forward to further developing it.
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/adivd15">
+            <img src="contributors/adi.jpg" width="100px;" alt="Adi"/><br />
+            <sub><b>Adrian Costea</b></sub></a><br />
+        <a href="https://github.com/adivd15" title="Team leader">🐛💻</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/plescaevelyn">
+            <img src="contributors/eve.png" width="100px;" alt="Eve"/><br />
+            <sub><b>Evelyn Plesca</b></sub></a><br />
+        <a href="https://github.com/plescaevelyn" title="Electronist and Finance">📁💻</a> 
+    </td>
+    <td>
+      <img src="contributors/mihai.jpg" width="100px;" alt="Mihai"/><br />
+      <sub><b>Mihai Stefanuti</b></sub></a><br />
+      <a href="https://github.com/stefaux" title="Api Dev">💾🧩</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="contributors/diana.jpeg" width="100px;" alt="Diana"/><br />
+      <sub><b>Diana Trif</b></sub></a><br />
+      <a href="https://github.com/DianaT08" title="Dev">🔌🌐</a>
+    </td>
+    <td>
+     <img src="contributors/ada.jpeg" width="100px;" alt="Ada"/><br />
+      <sub><b>Ada Tudor</b></sub></a><br />
+      <a href="https://github.com/DaNoobRo" title="Designer">🎨💻</a>
+    </td>
+  </tr>
+</table>
