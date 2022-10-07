@@ -81,8 +81,6 @@ This is more of a concept of the app, altough fully functional. The proper devel
       <sub><b>Mihai Stefanuti</b></sub></a><br />
       <a href="https://github.com/stefaux" title="Api Dev">💾🧩</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="contributors/diana.jpeg" width="100px;" alt="Diana"/><br />
       <sub><b>Diana Trif</b></sub></a><br />
