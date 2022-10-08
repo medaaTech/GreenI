@@ -26,27 +26,27 @@ Every user has an account, safely implemented using Google Firebase. The app the
 
 <table>
   <tr align="center">
-    <img src="demo-images/signup-page.jpeg" width="200px;" alt="Signup page"/><br />
+    <img src="code/demo-images/signup-page.jpeg" width="200px;" alt="Signup page"/><br />
     <sub><b>Sign Up page</b></sub></a>
   </tr>
-  <tr align="center"> 
+  <tr align="code/center"> 
     <img src="demo-images/login-page.jpeg" width="200px;" alt="Login page"/><br />
     <sub><b>Login page</b></sub></a>
   </tr>
   <tr align="center">
-    <img src="demo-images/map.jpeg" width="200px;" alt="Map"/><br />
+    <img src="code/demo-images/map.jpeg" width="200px;" alt="Map"/><br />
     <sub><b>Map page</b></sub></a>
   </tr>
   <tr align="center">
-    <img src="demo-images/centers.jpeg" width="200px;" alt="Adding center"/><br />
+    <img src="code/demo-images/centers.jpeg" width="200px;" alt="Adding center"/><br />
     <sub><b>Adding centers</b></sub></a>
   </tr>
   <tr align="center">
-    <img src="demo-images/qr-scanner.jpeg" width="200px;" alt="QR scanner"/><br />
+    <img src="code/demo-images/qr-scanner.jpeg" width="200px;" alt="QR scanner"/><br />
     <sub><b>QR scanner</b></sub></a>
   </tr>
   <tr align="center">
-    <img src="demo-images/rewards.jpeg" width="200px;" alt="Rewards page"/><br />
+    <img src="code/demo-images/rewards.jpeg" width="200px;" alt="Rewards page"/><br />
     <sub><b>Rewards page</b></sub></a>
   </tr>
 </table>
