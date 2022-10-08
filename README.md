@@ -30,7 +30,7 @@ Every user has an account, safely implemented using Google Firebase. The app the
     <sub><b>Sign Up page</b></sub></a>
   </tr>
   <tr align="code/center"> 
-    <img src="demo-images/login-page.jpeg" width="200px;" alt="Login page"/><br />
+    <img src="code/demo-images/login-page.jpeg" width="200px;" alt="Login page"/><br />
     <sub><b>Login page</b></sub></a>
   </tr>
   <tr align="center">
@@ -82,7 +82,7 @@ This is more of a concept of the app, altough fully functional. The proper devel
       <a href="https://github.com/DaNoobRo" title="Designer">🎨💻</a>
     </td>
     <td>
-      <img src="contributors/mihai.jpg" width="100px;" alt="Mihai"/><br />
+      <img src="contributors/mihai.jpeg" width="100px;" alt="Mihai"/><br />
       <sub><b>Mihai Stefanuti</b></sub></a><br />
       <a href="https://github.com/stefaux" title="Api Dev">💾🧩</a>
     </td>
